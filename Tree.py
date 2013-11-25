@@ -1,7 +1,7 @@
 ######### CLASS TREE  ######### 
 import Node
 
-class Tree():
+class Tree:
 	def __init__(self, root):
 		self.root = root
 	def getRoot(self):
